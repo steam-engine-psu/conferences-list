@@ -21,3 +21,8 @@ Attendees will be able to:
 - Design new features for next-generation authoring tools.
 #### Abstract
 In the future, building accessible educational content for multiple formats, devices, and CMSs should be like child's play. Today, come play with us; together we will take our first step into the future.
+
+## Who Is Attending?
+
+## Who Has Attended?
+- Nikki Massaro Kauffman has attended and presented
