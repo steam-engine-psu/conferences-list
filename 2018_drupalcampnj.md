@@ -1,4 +1,4 @@
-# HighEdWeb
+# DrupalCampNJ
 
 ## Overview
 |                         |                               |
