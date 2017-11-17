@@ -1,11 +1,13 @@
 # TLT Symposium
 
 ## Overview
-*URL*: http://symposium.tlt.psu.edu/]
-*Date*: Saturday, March 17, 2018
-*Location*: Penn Stater Hotel and Conference Center
-*Call for Proposals*: November 27, 2017 via https://docs.google.com/forms/d/e/1FAIpQLSc3k7GmTsoKvGToqmOIjwzq251BNm28VME4wp6aZoi1JzCrOg/viewform
-*Audience*: "The Symposium is mainly targeted to Penn State faculty, although instructional designers, education technologists, and multimedia developers also attend. Graduate students who are teaching courses or who are part of Symposium presentations are also invited to attend. At this time, the Symposium is not open to people outside of Penn State."
+|                         |                                         |
+| ----------------------- | -----------------------------           |
+| __URL__:                | http://symposium.tlt.psu.edu/           |
+| __Date__:               | Saturday, March 17, 2018 .              |
+| __Location__:           | Penn Stater Hotel and Conference Center |
+| __Call for Proposals__: | [November 27, 2017](https://docs.google.com/forms/d/e/1FAIpQLSc3k7GmTsoKvGToqmOIjwzq251BNm28VME4wp6aZoi1JzCrOg/viewform "Link to CFP Form") | 
+| __Audience__:           | "The Symposium is mainly targeted to Penn State faculty, although instructional designers, education technologists, and multimedia developers also attend. Graduate students who are teaching courses or who are part of Symposium presentations are also invited to attend. At this time, the Symposium is not open to people outside of Penn State." |
 
 ## Presentations We Are Giving
 
