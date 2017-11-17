@@ -18,3 +18,4 @@ TBA - Speakers are notified around mid-May.
 
 ## Who Has Attended?
 - Nikki Massaro Kauffman attended and presented almost annually since 2007
+- Zane Sensenig attended in 2017. 
