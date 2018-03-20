@@ -13,7 +13,7 @@
 TBA - Speakers are notified around mid-May.
 
 ## Proposals We Have Sumitted
-- [Free as in Puppies: The Care and Feeding of "Pet" Web Projects](2018_proposals/free_as_in_puppies.md) (Nikki Massaro Kauffman)
+- [Free as in Puppies: The Care and Feeding of "Pet" Web Projects](2018_proposals/free_as_in_puppies_session.md) (Nikki Massaro Kauffman)
 - [Give Content Contributors the AX](2018_proposals/give_the_ax.md) (Nikki Massaro Kauffman)
 - [Why Your Learning Management System Sucks](2018_proposals/lms_sucks.md) (Nikki Massaro Kauffman)
 
