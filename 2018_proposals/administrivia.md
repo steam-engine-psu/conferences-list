@@ -30,7 +30,7 @@ Notes:
 - Use framework, but don't tell admins. Don't say framework or front-end.
 - APIs, theming, headless. Community support.
 - Collecting data.
-- Administriva is part of suer journey.
+- Administriva is part of user journey.
 - User experience and actual users to evaluate.
 - Not build v. buy. It's continuum.
 - Walled garden --> no room for innovation.
@@ -41,6 +41,7 @@ Notes:
 ### Nikki Massaro Kauffman, Penn State University
 Nikki Massaro Kauffman is a unique combination of front-end developer, multimedia specialist, and educator. Using web technology to give learners of all backgrounds access to education is more than job to her; it is her calling. She has degrees in both computer science and in education and has been working in these fields since 1998.
 
-### TODO Aaron Knight
+### Aaron Knight, SUNY-ESF
+Aaron Knight is responsible for internal web portals, course registration, grading and institutional reporting for the SUNY College of Environmental Science and Forestry's Information Systems group. Basically, if you wouldn’t notice him until it’s suddenly not working and is required for the college to function, he’s probably responsible for it. He spends a lot of time figuring out the quirks of mapping systems and other peculiarities of the Googleverse so you don’t have to. I think I’m fine with the draft desc for Administrivia for proposing.
 
 ### TODO Zane???
