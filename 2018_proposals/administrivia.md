@@ -44,5 +44,5 @@ Nikki Massaro Kauffman is a unique combination of front-end developer, multimedi
 ### Aaron Knight, SUNY-ESF
 Aaron Knight is responsible for internal web portals, course registration, grading and institutional reporting for the SUNY College of Environmental Science and Forestry's Information Systems group. Basically, if you wouldn’t notice him until it’s suddenly not working and is required for the college to function, he’s probably responsible for it. He spends a lot of time figuring out the quirks of mapping systems and other peculiarities of the Googleverse so you don’t have to. 
 
-### Zane Sensenig
+### Zane Sensenig, Penn State University
 Zane Sensenig is a web 'maker' at Penn State's eLearning Design and Innovation Group (eLDIG). At eLDIG, Zane has an exciting opportunity to impact the way Penn State's business students participate in online learning; and he gets to build tools that will be used by instructional designers to develop online courses. Zane takes an interdisciplinary approach by allowing design, marketing strategy, and people skills to influence his work.
