@@ -8,18 +8,20 @@ _Idea for edUi_
 | **This Session is for:** | UX Professionals, Unicorns    |
 | **Difficulty:**          | Beginner                      |
 
-## Session Description:	
-_TODO/Work in Progress_ 
+## Session Description:	have also pitched that same [session for HighEdWeb 2018](free_as_in_puppies_session.md).)
 
-(This would be a workshop version of my [edUi 2017 session](https://sites.psu.edu/nikkimk/2017/09/25/free-as-in-puppies-the-care-feeding-of-pet-projects/). I have also pitched that same [session for HighEdWeb 2018](free_as_in_puppies_session.md).)
+What do small web projects and puppies have in common? While both are small and cute, neither should be adopted without planning for their care and feeding. 
 
-TODO... Revise this for workshop
-What do small web projects and puppies have in common? While both are small and cute, neither should be adopted without planning for their care and feeding. This session will cover a process for how to tackle the planning of smaller departmental websites from user and author experience, content, design, and governance. Learn how to get runaway projects back on a leash!
+Small departments, working groups, and faculty want pet websites like my kids want a puppy. They jump right to want it to look without taking into consideration their needs, what they will feed it, and who will be providing care. After being on a some small "pet" projects, we've learned how to plan these sites from user and author experience, content, design, and governance. 
 
-Small departments, working groups, and faculty want pet websites like my kids want a puppy. They jump right to want it to look without taking into consideration their needs, what they will feed it, and who will be providing care. After being on a some small "pet" projects, I've learned how to facilitate discussions that guide stakeholders into a usable, sustainable site. I'll share some of the steps I took and what materials I used to plan for these small projects striking a balance between keeping the effort reasonable and sufficiently planning.
+This year, we'll walk you through our this process in a workshop format where you can apply our steps in hands-on activities. Learn how to get runaway projects back on a leash!
+
+
+_(This would be a workshop version of my [edUi 2017 session](https://sites.psu.edu/nikkimk/2017/09/25/free-as-in-puppies-the-care-feeding-of-pet-projects/).-
 
 ## Presenter information
 ### Nikki Massaro Kauffman, Penn State University
 Nikki Massaro Kauffman is a unique combination of front-end developer, multimedia specialist, and educator. Using web technology to give learners of all backgrounds access to education is more than job to her; it is her calling. She has degrees in both computer science and in education and has been working in these fields since 1998.
 
-### TODO Zane???
+### Zane Sensenig
+Zane Sensenig is a web 'maker' at Penn State's eLearning Design and Innovation Group (eLDIG). At eLDIG, Zane has an exciting opportunity to impact the way Penn State's business students participate in online learning; and he gets to build tools that will be used by instructional designers to develop online courses. Zane takes an interdisciplinary approach by allowing design, marketing strategy, and people skills to influence his work.
