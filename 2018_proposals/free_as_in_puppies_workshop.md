@@ -23,5 +23,5 @@ _(This would be a workshop version of my [edUi 2017 session](https://sites.psu.e
 ### Nikki Massaro Kauffman, Penn State University
 Nikki Massaro Kauffman is a unique combination of front-end developer, multimedia specialist, and educator. Using web technology to give learners of all backgrounds access to education is more than job to her; it is her calling. She has degrees in both computer science and in education and has been working in these fields since 1998.
 
-### Zane Sensenig
+### Zane Sensenig, Penn State University
 Zane Sensenig is a web 'maker' at Penn State's eLearning Design and Innovation Group (eLDIG). At eLDIG, Zane has an exciting opportunity to impact the way Penn State's business students participate in online learning; and he gets to build tools that will be used by instructional designers to develop online courses. Zane takes an interdisciplinary approach by allowing design, marketing strategy, and people skills to influence his work.
