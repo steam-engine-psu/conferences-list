@@ -44,5 +44,16 @@ Nikki Massaro Kauffman is a unique combination of front-end developer, multimedi
 ### Aaron Knight, SUNY-ESF
 Aaron Knight is responsible for internal web portals, course registration, grading and institutional reporting for the SUNY College of Environmental Science and Forestry's Information Systems group. Basically, if you wouldn’t notice him until it’s suddenly not working and is required for the college to function, he’s probably responsible for it. He spends a lot of time figuring out the quirks of mapping systems and other peculiarities of the Googleverse so you don’t have to. 
 
+#### Speaking Experience
+- "Accessible Wayfinding: It’s Not Uncharted Territory", HighEdWeb, Hartford, CT, 2017
+- "Building a Better (Campus) Map", HighEdWeb, Memphis, TN, 2016
+- "Herding Cats – From Application to Alum" (Poster), HighEdWeb, Memphis, TN, 2016
+- "Finding Your Way: Navigating Big Map Data", Elements: The Web Conference at Penn State, University Park, PA, 2016
+- "Finding Your Way", HighEdWeb, Milwaukee, WI, 2015
+- "Fix All The Map Data!", HighEdWeb, Portland, OR, 2014
+- "Finding Your Way: Fixing (Conflicting) Map Data and Building an Interactive Campus Map" (Workshop), HighEdWeb, Portland, OR, 2014
+- "Fix All The (Map) Data!" (Workshop), HighEdWeb, Buffalo, NY, 2013
+- "Adventures in Campus Mapping", HighEdWeb Regional, FL, 2013
+
 ### Zane Sensenig, Penn State University
 Zane Sensenig is a web 'maker' at Penn State's eLearning Design and Innovation Group (eLDIG). At eLDIG, Zane has an exciting opportunity to impact the way Penn State's business students participate in online learning; and he gets to build tools that will be used by instructional designers to develop online courses. Zane takes an interdisciplinary approach by allowing design, marketing strategy, and people skills to influence his work.
