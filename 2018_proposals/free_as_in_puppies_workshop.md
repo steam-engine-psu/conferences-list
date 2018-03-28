@@ -12,9 +12,9 @@ _Idea for edUi_
 
 What do small web projects and puppies have in common? While both are small and cute, neither should be adopted without planning for their care and feeding. 
 
-Small departments, working groups, and faculty want pet websites like my kids want a puppy. They jump right to want it to look without taking into consideration their needs, what they will feed it, and who will be providing care. After being on a some small "pet" projects, we've learned how to plan these sites from user and author experience, content, design, and governance. 
+Small departments, working groups, and faculty want pet websites like my kids want a puppy. They jump right into that they want it to look without taking into consideration their needs, what they will feed it, and who will be providing care. After being on a some small "pet" projects, we've learned how to plan these sites from user and author experience, content, design, and governance. 
 
-This year, we'll walk you through our this process in a workshop format where you can apply our steps in hands-on activities. Learn how to get runaway projects back on a leash!
+This year, we'll walk you through our process in a workshop format where you can apply our steps in hands-on activities. Learn how to get runaway projects back on a leash!
 
 
 _(This would be a workshop version of my [edUi 2017 session](https://sites.psu.edu/nikkimk/2017/09/25/free-as-in-puppies-the-care-feeding-of-pet-projects/).-
